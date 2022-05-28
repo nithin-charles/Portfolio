@@ -1,0 +1,17 @@
+.port{
+    width: 100%;
+    height: auto;
+    display: block;
+
+}
+
+@media screen and (max-width:450px){
+    .responsive{
+        height: 50%;
+        width: auto;
+        position: fixed;
+        transform: translateX(-29.5%);
+
+
+    }
+}
